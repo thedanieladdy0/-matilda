@@ -1,0 +1,6 @@
+streamlit
+sqlmodel
+ollama
+pydantic
+python-dotenv
+plyer
